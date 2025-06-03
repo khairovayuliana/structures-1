@@ -1,6 +1,5 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "circle.cpp"
 #include <sstream>
 #include <iomanip>
 #include <cmath>
