@@ -1,13 +1,12 @@
 
-// Point structure declared here
+// declare Point structure here
  struct Point {
-     double x = 0.0;
-     double y = 0.0;
+      // your code here
  };
 
 // declare Circle structure here
 struct Circle {
-  // your code here ("center" and "radius" (look for appropriate names in test.cpp))
+  // your code here ("center" and "radius" (look for expected names in test.cpp))
 
 };
 double circleArea(Circle c);
