@@ -1,9 +1,9 @@
 
-// declare Point structure here
-// struct Point {
-//     double x = 0.0;
-//     double y = 0.0;
-// };
+// Point structure declared here
+ struct Point {
+     double x = 0.0;
+     double y = 0.0;
+ };
 
 // declare Circle structure here
 struct Circle {
